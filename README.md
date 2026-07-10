@@ -1,14 +1,22 @@
 <div align="center">
 
-# Fahd 👋
-
-### Electron Developer • React • Desktop Applications
-
 <img src="assets/banner.png" width="100%">
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ellecrydansmesdm&color=00d2ff&style=for-the-badge)](https://github.com/ellecrydansmesdm)
+# Fahd
+
+### Electron Developer • Desktop Applications • UI Engineering
+
+<img src="https://komarev.com/ghpvc/?username=ellecrydansmesdm&label=Profile%20Views&color=00d2ff&style=for-the-badge">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/projects-demo.gif" width="100%">
 
 </div>
 
@@ -19,55 +27,100 @@
 ```ts
 const fahd = {
     username: "ellecrydansmesdm",
-    location: "Morocco 🇲🇦",
-    stack: [
+
+    location: "Morocco",
+
+    focus: [
         "Electron",
-        "React",
-        "Node.js",
-        "Firebase",
-        "TypeScript"
+        "Desktop Applications",
+        "Modern UI",
+        "Security Research"
     ],
 
-    currentProjects: [
+    currentlyBuilding: [
         "🛡 Opsec PRO",
         "💬 FCord"
-    ],
-
-    currentlyLearning: [
-        "Electron internals",
-        "UI Engineering",
-        "Security"
     ]
 }
 ```
 
 ---
 
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=electron,react,nodejs,ts,js,html,css,git,github,vscode,firebase"/>
+
+</p>
+
+---
+
 # 🚀 Featured Projects
 
-## 🛡 Opsec PRO
+<table>
 
-Advanced Electron desktop application featuring a modern interface, modular architecture and secure local storage.
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🛡 Opsec PRO</h3>
+
+<p align="center">
 
 <img src="assets/opsec-card.png">
 
----
+</p>
 
-## 💬 FCord
+<p align="center">
 
-Custom Discord desktop client focused on customization and modern UI.
+Modern Electron desktop application focused on performance, modular architecture and polished user experience.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/ellecrydansmesdm/Opsec-PRO">
+
+Repository →
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💬 FCord</h3>
+
+<p align="center">
 
 <img src="assets/fcord-card.png">
 
----
+</p>
 
-# ⚙️ Tech Stack
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=electron,react,nodejs,ts,js,firebase,git,github,vscode"/>
+Custom Discord desktop client built around customization and modern design.
 
 </p>
+
+<p align="center">
+
+<a href="https://github.com/ellecrydansmesdm/Fcord">
+
+Repository →
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -75,24 +128,19 @@ Custom Discord desktop client focused on customization and modern UI.
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=ellecrydansmesdm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ellecrydansmesdm&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellecrydansmesdm&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellecrydansmesdm&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=ellecrydansmesdm&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ellecrydansmesdm&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -108,32 +156,24 @@ src="https://streak-stats.demolab.com?user=ellecrydansmesdm&theme=tokyonight&hid
 
 ---
 
-# 📫 Contact
+# 🌐 Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/ellecrydansmesdm">
-GitHub
-</a>
+💬 Discord
 
-•
+**@ellecrydansmesdm**
 
-<a href="https://discord.gg/Q56drkYQb5">
-Discord
-</a>
+🌍 Website
 
-•
+https://fhubdev.vercel.app
 
-<a href="https://opsecpro.sell.app">
-Website
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Building modern desktop experiences.
+### Thanks for visiting 👋
 
 </div>

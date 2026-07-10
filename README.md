@@ -45,15 +45,16 @@ A desktop product builder using Electron, React and TypeScript. I ship polished 
 
 ---
 
-# 📊 GitHub Pulse
+# 📊 GitHub Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ellecrydansmesdm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellecrydansmesdm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com?user=ellecrydansmesdm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<br>
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ellecrydansmesdm&theme=tokyo-night&hide_border=true" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ellecrydansmesdm&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
